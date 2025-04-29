@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: pythonweb
-        image: sneha758/python_docker_image:v1
+        image: sneha758/python_docker_image1:v1
         ports:
         - containerPort: 5000
